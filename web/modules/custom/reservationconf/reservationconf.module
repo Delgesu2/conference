@@ -1,9 +1,0 @@
-<?php
-
-function reservationconf_help($route_name, \Drupal\Core\Routing\RouteMatchInterface $route_match)
-{
-    switch ($route_name) {
-        case 'help.page.reservationconf':
-            return '<p>' . t('In case you need help for the Reservationconf module') . '</p>';
-    }
-}

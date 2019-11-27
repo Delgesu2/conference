@@ -1,7 +1,0 @@
-name: Inscription role
-description: Attribution du rôle Participant à chaque nouvel inscrit
-type: module
-core: 8.x
-version: 8.x-1.0
-package: Registration
-dependencies:

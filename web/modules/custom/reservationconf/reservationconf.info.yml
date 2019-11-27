@@ -1,7 +1,0 @@
-name: Reservationconf
-description: Gestion de l'accès à la réservation
-type: module
-core: 8.x
-version: 8.x-1.0
-package: Inscription
-dependencies:
